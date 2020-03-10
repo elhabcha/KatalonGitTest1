@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-TS_Abdelmouman,,,,2020-03-10 14:37:37,2020-03-10 14:37:45,"7,228s",FAILED
-,,,,,,,
-Test Cases/TC_Abdelmouman,,,,2020-03-10 14:37:38,2020-03-10 14:37:45,"6,846s",FAILED
-"openBrowser("""")",,,,2020-03-10 14:37:38,2020-03-10 14:37:45,"6,393s",FAILED
